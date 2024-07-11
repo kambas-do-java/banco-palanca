@@ -30,7 +30,7 @@ Embora o Banco Palanca seja voltado principalmente para a comunidade angolana, e
 
 No Banco Palanca, você terá a chance de trabalhar com a implementação de diversos produtos bancários, incluindo:
 
-- **Conta Corrente (Conta à Ordem)**: Gerenciamento de contas correntes, incluindo depósitos, saques e transferências.
+- **Conta Corrente (Depósito à Ordem)**: Gerenciamento de contas correntes, incluindo depósitos, saques e transferências.
 - **Conta Poupança (Depósito a Prazo)**: Contas de poupança com cálculo de juros.
 - **Pagamentos**: Sistema de pagamentos de contas e transferências.
 - **Futuro**:
@@ -81,6 +81,7 @@ Para mais detalhes sobre a configuração do ambiente, estrutura do projeto, e o
 - [Configuração do Ambiente](docs/ambiente.md)
 - [Estrutura do Projeto](docs/estrutura.md)
 - [Guia de Contribuição](docs/contribuicao.md)
+- [Negócio](docs/negocio.md)
 
 ## Issues
 
