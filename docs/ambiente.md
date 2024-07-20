@@ -20,7 +20,11 @@
    ```bash
    mvn clean install
    ```
-4. Execute a aplicação com Docker:
+4. Execute a aplicação com Maven:
+   ```bash
+   mvn clean spring-boot:run
+   ```
+5. Execute a aplicação com Docker (opcional):
    ```bash
    docker-compose up
    ```
