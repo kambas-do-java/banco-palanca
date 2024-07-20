@@ -1,7 +1,3 @@
-Separar a documentação pode tornar o projeto mais organizado e fácil de navegar, especialmente para novos contribuidores. Isso permite que o README principal seja mais enxuto e direto, enquanto a documentação detalhada é acessada conforme necessário. Aqui está uma sugestão de como estruturar o README com links para documentação separada:
-
----
-
 # Banco Palanca
 
 ![Java](https://img.shields.io/badge/Java-21-brightgreen)
